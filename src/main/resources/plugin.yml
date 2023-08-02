@@ -1,0 +1,4 @@
+name: GuiAPI
+version: '${project.version}'
+main: me.terramain.guiapi.GuiAPIPlugin
+api-version: 1.20
